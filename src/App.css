@@ -39,4 +39,29 @@
 
 .read-the-docs {
   color: #888;
+  border-color: bisque;
+  border: #61dafbaa;
+  background-color: beige;
+  padding: 2em;
+  margin: 5em;
+} 
+
+h1 {
+  background-color: aquamarine;
+}
+
+.box {
+ height: 100vh;
+ background-color: lavender;
+/* Flexbox Layout */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  height: 200px;
+  width: 100px;
+  background-color: blanchedalmond;
+  border-radius: 50%;
 }
